@@ -1,0 +1,11 @@
+.idea
+.test-output
+.target
+/target
+.allure-report
+*.iml
+.DS_Store
+src/.DS_Store
+/build.idea
+/build
+/src/app
